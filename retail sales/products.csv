@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,List_Price,Cost
+P001,Wireless Earbuds,Electronics,180,95
+P002,Smart Watch,Electronics,450,260
+P003,Phone Charger,Electronics,45,15
+P004,Bluetooth Speaker,Electronics,220,120
+P005,Power Bank,Electronics,95,45
+P006,Thobe,Clothing,250,110
+P007,Abaya,Clothing,320,150
+P008,Sneakers,Clothing,290,140
+P009,T-Shirt,Clothing,60,22
+P010,Jacket,Clothing,380,180
+P011,Oud Perfume,Beauty,420,190
+P012,Face Cream,Beauty,110,40
+P013,Hair Dryer,Beauty,200,95
+P014,Makeup Set,Beauty,260,110
+P015,Coffee Maker,Home,340,170
+P016,Dinner Set,Home,290,130
+P017,Bed Sheets,Home,190,80
+P018,Vacuum Cleaner,Home,520,280
+P019,Carpet,Home,600,300
+P020,Dates Box,Grocery,70,35
+P021,Arabic Coffee,Grocery,85,45
+P022,Olive Oil,Grocery,60,32
+P023,Honey,Grocery,150,80
+P024,Football,Sports,110,50
+P025,Yoga Mat,Sports,95,40
+P026,Dumbbells Set,Sports,240,120
+P027,Bicycle,Sports,900,520
+P028,Backpack,Accessories,160,70
+P029,Sunglasses,Accessories,210,90
+P030,Wallet,Accessories,130,50
